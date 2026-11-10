@@ -1,0 +1,6 @@
+{
+  "name": "BingoPlus - 9-Site Rewards & Operations Network",
+  "description": "Unified player and staff portal for BingoPlus across 9 branches featuring real-time jackpots, roundtop tracking, QR points scanner, rewards redemption, and branch live chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
